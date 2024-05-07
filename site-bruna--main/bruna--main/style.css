@@ -57,19 +57,17 @@
     }
     
     .estudante-imagem{
-        width: 120px;
+        width: 20px;
     }
     
-    .estudante-icone{
+    .tico-imagem-1{
     
-    width: 24px;
-    padding: 4px 8px;
+    width: 60%;
     }
+
+    .familía-imagem-2{
     
-    .estudante-div{
-    
-    text-align: center;
-    padding: 16px 0 ;
+    width: 60%;
     }
     
     .estudante-titulo{
